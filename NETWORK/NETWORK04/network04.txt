@@ -1,0 +1,5 @@
+filtrare per dns => dns 
+poi per destinazione => ip.dst == 192.168.100.3
+
+comando : 
+dns && ip.dst == 192.168.100.3

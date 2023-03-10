@@ -1,0 +1,2 @@
+Ctrl_F
+Stringa e cercare "Pwn all the things!!!"

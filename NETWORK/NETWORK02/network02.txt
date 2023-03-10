@@ -1,0 +1,1 @@
+guardare l'indirizzo del mittente in "Ethernet II"/"Source" e la lunghezza byte del pacchetto 4
